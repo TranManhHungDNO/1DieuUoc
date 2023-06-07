@@ -1,0 +1,2 @@
+[Fri, 26 Feb 2016 05:08:48 -0500] [66.249.71.192] [Warning(2): Missing argument 2 for nv_get_cache(), called in /home/dieuuoc/domains/1dieuuoc.com/public_html/modules/photo/funcs/sitemap.php on line 18 and defined] [FILE: /includes/core/cache_functions.php] [LINE: 96]
+[Fri, 26 Feb 2016 05:08:48 -0500] [66.249.71.192] [Warning(2): Missing argument 3 for nv_set_cache(), called in /home/dieuuoc/domains/1dieuuoc.com/public_html/modules/photo/funcs/sitemap.php on line 35 and defined] [FILE: /includes/core/cache_functions.php] [LINE: 113]

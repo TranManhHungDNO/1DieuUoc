@@ -1,0 +1,45 @@
+﻿.guestbook{
+
+}
+
+.send_time{
+	font-style: italic;
+	float: left;
+	color: #0286A3;
+}
+
+.sender{
+	float: right;
+	color: #0286A3;
+}
+
+.testimonial{
+	line-height: 25px;
+	text-align: justify;
+}
+
+#search{
+	float: left;
+}
+
+.send{
+	float: right;
+	font-weight: bold;
+}
+
+.page{
+	display: block;
+	text-align: center
+}
+
+.detail{
+	text-align: right;
+}
+
+.view_all{
+	float: left
+}
+
+.send{
+	float: right
+}

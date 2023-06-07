@@ -1,0 +1,39 @@
+<!-- BEGIN: main -->
+{FILE "header_only.tpl"}
+{FILE "header_extended.tpl"}
+
+
+
+
+<div class="row">
+    <div class="pa-bg col-sm-12 col-md-12 col-sm-push-6 col-md-push-6 ">
+        <div style="width:100%; display: inline-block;">
+  <form action="http://www.google.com.vn" id="cse-search-box"  target="_blank">
+      <div>
+        <input type="hidden" name="cx" value="partner-pub-1041517710541548:3282335917" />
+        <input type="hidden" name="ie" value="UTF-8" />
+        <input type="text"class="form-control" placeholder="Tìm kiếm..."name="q" size="55" style="width:85%;float: left;"/>
+        <input type="submit" name="sa" class="form-control"value="Search" style=" color: #fff;background-color: #5bc0de; border-color: #46b8da;width:13%;padding:0; margin:0;float: right;"/>
+      </div>
+    </form>
+   </div>
+<script type="text/javascript" src="http://www.google.com/cse/query_renderer.js"></script>
+<div id="queries"></div>
+<script src="http://www.google.com/cse/api/partner-pub-1041517710541548/cse/3282335917/queries/js?oe=UTF-8&amp;callback=(new+PopularQueryRenderer(document.getElementById(%22queries%22))).render"></script>
+        {MODULE_CONTENT}
+        [BOTTOM]
+    </div>
+    <div class="col-sm-6 col-md-6 col-sm-push-6 col-md-push-6 ">
+        [RIGHT]
+    </div>
+	<div class="col-sm-6 col-md-6 col-sm-pull-16 col-md-pull-18">
+		[LEFT]
+	</div>
+</div>
+
+<div class="row">
+	[FOOTER]
+</div>
+{FILE "footer_extended.tpl"}
+{FILE "footer_only.tpl"}
+<!-- END: main -->

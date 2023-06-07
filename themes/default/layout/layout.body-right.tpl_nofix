@@ -1,0 +1,24 @@
+<!-- BEGIN: main -->
+{FILE "header_only.tpl"}
+{FILE "header_extended.tpl"}
+
+<div class="row">
+	<div class="pa-bg col-sm-18 col-md-18">
+	
+		{MODULE_CONTENT}
+		[BOTTOM]
+
+<script type="text/javascript" src="http://www.google.com/cse/query_renderer.js"></script>
+<div id="queries"></div>
+<script src="http://www.google.com/cse/api/partner-pub-1041517710541548/cse/3282335917/queries/js?oe=UTF-8&amp;callback=(new+PopularQueryRenderer(document.getElementById(%22queries%22))).render"></script>
+	</div>
+	<div class="col-sm-8 col-md-6">
+		[RIGHT]
+	</div>
+</div>
+<div class="row">
+		[FOOTER]
+</div>
+{FILE "footer_extended.tpl"}
+{FILE "footer_only.tpl"}
+<!-- END: main -->

@@ -1,0 +1,5 @@
+[Thu, 03 Mar 2016 11:00:20 +0100] [188.164.149.94] [Notice(8): Undefined index: error_404_title] [FILE: /mainfile.php] [LINE: 178]
+[Thu, 03 Mar 2016 11:00:20 +0100] [188.164.149.94] [Notice(8): Undefined index: site_description] [FILE: /includes/core/theme_functions.php] [LINE: 100]
+[Thu, 03 Mar 2016 11:00:20 +0100] [188.164.149.94] [Notice(8): Undefined index: site_name] [FILE: /includes/core/theme_functions.php] [LINE: 140]
+[Thu, 03 Mar 2016 11:00:20 +0100] [188.164.149.94] [Notice(8): Undefined index: googleAnalyticsID] [FILE: /includes/functions.php] [LINE: 1698]
+[Thu, 03 Mar 2016 11:00:20 +0100] [188.164.149.94] [Notice(8): Undefined index: cronjobs_next_time] [FILE: /includes/functions.php] [LINE: 1730]

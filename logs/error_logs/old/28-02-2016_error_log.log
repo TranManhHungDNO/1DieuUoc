@@ -1,0 +1,1 @@
+[Sun, 28 Feb 2016 07:59:49 -0500] [69.30.221.250] [Warning(2): get_headers(https://me.yahoo.com/): failed to open stream: HTTP request failed! ] [FILE: /includes/class/openid.class.php] [LINE: 238]

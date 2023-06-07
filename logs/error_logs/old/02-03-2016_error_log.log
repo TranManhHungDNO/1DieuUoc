@@ -1,0 +1,2 @@
+[Wed, 02 Mar 2016 23:17:54 +0700] [116.105.202.83] [Notice(8): Uninitialized string offset: 0] [FILE: /modules/news/funcs/search.php] [LINE: 41]
+[Wed, 02 Mar 2016 23:17:54 +0700] [116.105.202.83] [Notice(8): Array to string conversion] [FILE: /modules/news/funcs/search.php] [LINE: 42]
